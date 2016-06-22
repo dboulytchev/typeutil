@@ -1,7 +1,7 @@
 
 # type in sources here
-SOURCES = compare.ml view.ml hTMLView.ml
-MLI = compare.mli view.mli hTMLView.mli
+SOURCES = compare.ml 
+MLI = compare.mli
 
 include $(top_srcdir)/m4/Makefile.am.vars
 
